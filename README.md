@@ -2,7 +2,7 @@
 
 This repository contains the Pytorch implementation of the Multimodal Fusion Comparison paper.
 
-**Authors:** Steven Au, Laurel Flanagan, Rhys Wickens, Austen Zhang.
+**Authors:** Steven Au, Laurel Flanagan, Rhys Wickens, Austen Zhang
 
 ## This repository contains:
 - Jupyter Notebook Code for 5-fold cross validation for each fusion method
