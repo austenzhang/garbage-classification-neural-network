@@ -1,6 +1,6 @@
 # Comparison of Multimodal Fusion Methods For Garbage Classification
 
-This repository contains the Pytorch implementation of the Multimodal Fusion Comparison paper.
+This repository contains the PyTorch implementation of the Multimodal Fusion Comparison paper.
 
 **Authors:** Steven Au, Laurel Flanagan, Rhys Wickens, Austen Zhang
 
